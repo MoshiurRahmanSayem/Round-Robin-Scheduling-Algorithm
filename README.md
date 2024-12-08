@@ -18,10 +18,7 @@ This project implements the **Round Robin Scheduling Algorithm** for CPU schedul
 3. [Objectives](#objectives)
 4. [Methodology](#methodology)
 5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Results](#results)
-8. [Conclusion](#conclusion)
-9. [Future Work](#future-work)
+
 
 ## Introduction
 
